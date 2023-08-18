@@ -1,2 +1,2 @@
 # CotizacionDolar
-Pequeña app para convertir Dolares a Pesos(AR$), Utilize Picocss y Js Nativo.
+Pequeña app para convertir Dólares a Pesos (AR$), Utilicé Picocss y JS Nativo.
